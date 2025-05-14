@@ -27,6 +27,7 @@ set( LINALG_FIND_MODULES
      FindBLIS.cmake
      FindIBMESSL.cmake
      FindIntelMKL.cmake
+     FindAOCl.cmake
      FindLAPACK.cmake
      FindOpenBLAS.cmake
      FindReferenceBLAS.cmake
